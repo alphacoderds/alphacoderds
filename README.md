@@ -1,5 +1,5 @@
 # 💫 About Me:
--👋 Hi, I’m Rahmanda Putri Radisa<br>- 👀 I’m interested in cloud infrastructure, machine learning, UI/UX, and mobile application development<br>- 🌱 I’m currently learning more about cloud computing, machine learning, UI/UX design, and mobile app development with Flutter<br>- 😄 I’m looking to collaborate on cloud infrastructure projects, mobile app development, and machine learning solutions<br>- 📫 How to reach me: www.linkedin.com/in/rahmandaputriradisa<br>- ⚡ Fun fact: I’m passionate about solving real-world problems through technology and currently diving into cybersecurity forensics to contribute in the field.<br>
+-👋 Hi, I’m Rahmanda Putri Radisa<br>- 👀 I’m interested in cloud infrastructure, machine learning, UI/UX, and mobile application development<br>- 🌱 I’m currently learning more about cloud computing, machine learning, UI/UX design, and mobile app development with Flutter<br>- 😄 I’m looking to collaborate on cloud infrastructure projects, mobile app development, and machine learning solutions<br>- 📫 How to reach me: www.linkedin.com/in/rahmandaputriradisa<br>- ⚡ Fun fact: I am interested in delving into the field of cybersecurity forensics to contribute to real-world case problems. Happy learning.<br>
 
 
 ## 🌐 Socials:
